@@ -5,9 +5,10 @@ This project is a simple shell script to calculate the area of different shapes:
 - Square
 - Rectangle
 - Circle
+- Triangle
 
 ## Features
-- Calculates the area of a square, rectangle, and circle.
+- Calculates the area of a square, rectangle,Triangle and circle.
 - User-friendly interface via the command line.
 
 ## Installation
